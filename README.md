@@ -12,7 +12,6 @@ The Task Management System API is a RESTful API built using Django and Django Re
 - [Authentication](#authentication)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
